@@ -14,10 +14,6 @@ for i in all_titles[::-1]:
         file.write(f"{movie}\n")
         print(movie)
 
-# for i in all_titles:
-#     with open(file="./movie_list.txt", mode="a") as to_watch:
-#         title = i.getText()
-#         to_watch.write(f"{title}\n")
 
 
 
